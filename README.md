@@ -7,7 +7,7 @@
 
 ---
 
-- :man_technologist: I'm a CS Hons. graduate from New Delhi, India.
+:man_technologist: I'm a CS Hons. graduate from New Delhi, India.
   
  🌱 I’m currently learning Python, C++ and DSA.
 <!--
